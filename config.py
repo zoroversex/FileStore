@@ -8,18 +8,18 @@ OWNER_ID = 8371607189
 
 MSG_EFFECT = 5046509860389126442
 
-SHORT_URL = "linkshortify.com" # shortner url 
+SHORT_URL = "" # shortner url 
 SHORT_API = "" 
-SHORT_TUT = "https://t.me/How_to_Download_7x/26"
+SHORT_TUT = ""
 
 # Bot Configuration
 SESSION = "yato"
-TOKEN = "77956"
+TOKEN = "7795601004:AAEHzqcShNV8-AjruwUp-tkCjIfmOnF0OkY"
 API_ID = "20881061"
 API_HASH = "5efa353cefe189620d28dcb30f0fea20"
 WORKERS = 5
 
-DB_URI = ""
+DB_URI = "mongodb+srv://ak:ak@cluster0.rxmxwlm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 DB_NAME = "yato"
 
 FSUBS = [[-1001785093771, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
