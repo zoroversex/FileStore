@@ -8,9 +8,9 @@ OWNER_ID = 8371607189
 
 MSG_EFFECT = 5046509860389126442
 
-SHORT_URL = "" # shortner url 
-SHORT_API = "" 
-SHORT_TUT = ""
+SHORT_URL = "gplinks.com" # shortner url 
+SHORT_API = "28a9d50fc1c6c070c68992e157fcd0fd9d3a9f2a" 
+SHORT_TUT = "https://t.me/how_to_open_link_ak"
 
 # Bot Configuration
 SESSION = "yato"
