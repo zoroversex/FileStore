@@ -14,12 +14,12 @@ SHORT_TUT = "https://t.me/how_to_open_link_ak"
 
 # Bot Configuration
 SESSION = "yato"
-TOKEN = ""
+TOKEN = "7795601004:AAFrOqi2pDDSxuUPvQkwyV5s8tyavOCF0Bg"
 API_ID = "20881061"
 API_HASH = "5efa353cefe189620d28dcb30f0fea20"
 WORKERS = 5
 
-DB_URI = ""
+DB_URI = "mongodb+srv://ak:ak@cluster0.rxmxwlm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 DB_NAME = "yato"
 
 FSUBS = [[-1001785093771, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
